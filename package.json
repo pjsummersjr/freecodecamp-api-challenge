@@ -1,6 +1,7 @@
 {
 	"name": "freecodecamp-apis-microservices-challenge",
 	"author": "Paul Summers",
+	"description": "FreeCodeCamp challenge to learn how to write API's and MicroServices",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
