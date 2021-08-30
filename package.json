@@ -1,5 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "freecodecamp-apis-microservices-challenge",
+	"author": "Paul Summers",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
